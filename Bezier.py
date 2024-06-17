@@ -1,6 +1,6 @@
 """
 Bezier Curves written for Tech Made Simple by Devansh
-Attrubite code to Devansh- https://artificialintelligencemadesimple.substack.com/
+Attribute code to Devansh- https://artificialintelligencemadesimple.substack.com/
 """
 
 import numpy as np
